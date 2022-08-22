@@ -1,16 +1,23 @@
-### Hi there 👋
+### Salve.
+ 
+<h3> Sobre mim: </h3>
 
-<!--
-**sourcinginfinity/sourcinginfinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 15yr old
 
-Here are some ideas to get you started:
+- State of Paraná, Federal Republic of Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PT&EN
+
+<h3>🛠 Tech Stack</h3>
+
+<p2> rosario@okayu.me <p2>
+
+<p2> marcos.rosario@mail.ru <p2>
+
+<br>
+
+
+
+</br>
+
+⭐️ STFMHE
